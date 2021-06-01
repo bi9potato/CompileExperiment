@@ -1,0 +1,25 @@
+void main(){
+	int a=3;
+	float b=2.6;
+	int c=a+b;
+	if(c<a){
+		c=c+1;
+	}else{
+		c=a;
+	}
+	while(b>=a){
+		a=b;
+	}
+	char d = 3
+	do{
+	    if( d <= 5 ){
+            d = 5
+	}while(d <5 )
+	d && 5
+	d & 5
+	d || a
+
+	for(int i = 1; i < 3; i = i+1){
+	    a = a + 1
+	}
+}

@@ -1,0 +1,25 @@
+MOV   R0  , 1.23
+NEG   R0
+MOV   T1  , RO
+MOV   AL  , 2
+MOV   CL  , T1
+MUL   CL
+MOV   T2  , AX
+MOV   AX  , 5.67
+MOV   CL  , 4
+DIV   CL
+MOV   T3  , AL
+MOV   R0  , 1.3
+MOV   R1  , T3
+ADD   R1  , R0
+MOV   T4  , R1
+MOV   R0  , 2
+MOV   R1  , T4
+SUB   R1  , R0
+MOV   T5  , R1
+MOV   R0  , T5
+MOV   R1  , T2
+ADD   R1  , R0
+MOV   T6  , R1
+MOV   R0  , T6
+MOV   a  , R0
